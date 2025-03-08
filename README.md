@@ -1,4 +1,4 @@
-Data enthusiast specializing in data mining and warehousing. Skilled in SQL, Python, and data visualization.
+Data enthusiast specializing in data mining and analysis. Skilled in SQL, Python, and data visualization.
 Passionate about uncovering insights from complex datasets and optimizing data workflows.
 
 
