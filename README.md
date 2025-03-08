@@ -6,6 +6,7 @@ my tools (but not limited to):
 -Numpy
 -BeautifulSoup
 -Matplotlib
+-R
 -Scikit-learn
 -Advanced Excel
 -Microsoft SQL server
