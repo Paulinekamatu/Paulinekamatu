@@ -1,5 +1,18 @@
-Data enthusiast specializing in data mining and analysis. Skilled in SQL, Python, and data visualization.
+Data enthusiast specializing in data mining, processing, and analytics. Skilled in SQL, Python, and data visualization.
 Passionate about uncovering insights from complex datasets and optimizing data workflows.
+
+my tools (but not limited to):
+-Pandas
+-Numpy
+-BeautifulSoup
+-Matplotlib
+-Scikit-learn
+-Advanced Excel
+-Microsoft SQL server
+-Microsoft Azure
+-AWS
+-MySql
+
 
 
 <!---
